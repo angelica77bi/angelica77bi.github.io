@@ -54,5 +54,9 @@ Ayook simplifies mobility:
 ## 🧪 Next Project
 
 <p align="center">
-  <i>Something new is coming.</i>
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="100%" />
+</p>
+
+<p align="center">
+  <i>Exploring what comes next.</i>
 </p>
