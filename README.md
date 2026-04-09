@@ -11,8 +11,10 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 </p>
 <p align="center">
-I’m interested in building products that exist beyond the internet —
-tools that connect digital convenience with real-world experiences.
-
-Mobility, travel, and freedom of movement are just the beginning.
-
+  <sub>
+  I’m interested in building products that exist beyond the internet —  
+  tools that connect digital convenience with real-world experiences.  
+  <br/><br/>
+  Mobility, travel, and freedom of movement are just the beginning.
+  </sub>
+</p>
