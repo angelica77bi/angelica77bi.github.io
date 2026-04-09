@@ -4,8 +4,11 @@
   Exploring mobility, freedom & ocean life 🌊
 </p>
 <p align="center">
-  <a href="projects.md"><b>🚀 Projects</b></a>
-  <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
+  <img src="https://images.unsplash.com/photo-1502680390469-be75c86b636f" width="90%" />
+</p>
+
+<p align="center">
+  <sub><i>Ocean, movement, and freedom.</i></sub>
 </p>
 <p align="center">
   <p align="center">
