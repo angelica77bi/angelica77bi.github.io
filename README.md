@@ -11,13 +11,6 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 </p>
 <p align="center">
-  <i>
-  I believe the future of work and life is more flexible, location-independent,  
-  and connected to real experiences — not just screens.
-  </i>
-</p>
-
-<p align="center">
 I’m interested in building products that exist beyond the internet —
 tools that connect digital convenience with real-world experiences.
 
