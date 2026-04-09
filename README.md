@@ -17,9 +17,7 @@
   </i>
 </p>
 
-
-🌱 My Vision
-
+<p align="center">
 I’m interested in building products that exist beyond the internet —
 tools that connect digital convenience with real-world experiences.
 
