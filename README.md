@@ -16,25 +16,7 @@
   <a href="projects.md"><b>🚀 Projects</b></a>
   <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
 </p>
-<table>
-<tr>
-<td width="50%">
-🚗 Ayook
 
-A Bali-based car rental platform connecting travelers with local providers.
-	•	🌴 Focus: Local mobility in Bali
-	•	🧩 Model: Aggregating small rental businesses
-	•	📍 Status: Live & operating
-
-👉 https://ayook.id
-</td>
-<td width="50%">
-🧪 Next Project
-
-Something new is coming…
-</td>
-</tr>
-</table>
 🌱 My Vision
 
 I’m interested in building products that exist beyond the internet —
