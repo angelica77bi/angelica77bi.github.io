@@ -7,7 +7,7 @@
   <a href="https://ayook.id"><b>🚗 Visit Ayook</b></a> •
   <a href="#-projects"><b>Projects</b></a> •
   <a href="#-writing"><b>Writing</b></a> •
-  <a href="#-connect"><b>Connect</b></a>
+   <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
 </p>
 <p align="center">
   <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" width="100%" />
