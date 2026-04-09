@@ -1,45 +1,46 @@
 <h1 align="center">Hi, I'm Angelica 👋</h1>
 <p align="center">
   <b>Building things where the internet meets the real world.</b><br/>
-  Exploring mobility & local services in Bali 🌴
+  Exploring mobility, freedom & ocean life 🌊
 </p>
 <p align="center">
-  <a href="https://ayook.id"><b>🚗 Visit Ayook</b></a> •
-  <a href="#-projects"><b>Projects</b></a> •
-  <a href="#-writing"><b>Writing</b></a> •
-   <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 </p>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" width="100%" />
+  <i>
+  I believe the future of work and life is more flexible, location-independent,  
+  and connected to real experiences — not just screens.
+  </i>
 </p>
-🚀 Projects
+<p align="center">
+  <a href="#-projects"><b>🚀 Projects</b></a> •
+  <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
+</p>
 <table>
 <tr>
 <td width="50%">
 🚗 Ayook
 
-Bali car rental platform connecting travelers with local providers.
+A Bali-based car rental platform connecting travelers with local providers.
+	•	🌴 Focus: Local mobility in Bali
+	•	🧩 Model: Aggregating small rental businesses
+	•	📍 Status: Live & operating
 
 👉 https://ayook.id
 </td>
 <td width="50%">
 🧪 Next Project
 
-Coming soon…
+Something new is coming…
 </td>
 </tr>
 </table>
-🌱 What I’m Doing
-	•	Building startup ideas in real markets
-	•	Working with developers to ship products
-	•	Learning by doing, not just planning
-	•	Documenting the journey publicly
-  ✍️ Writing
-	•	Why I started Ayook
-	•	Bali rental market insights
-	•	Lessons from building with teams
+🌱 My Vision
 
-(Coming soon…)
-🤝 Connect
+I’m interested in building products that exist beyond the internet —
+tools that connect digital convenience with real-world experiences.
 
-Let’s talk about ideas, products, or opportunities.
+Mobility, travel, and freedom of movement are just the beginning.
+<p align="center">
+  <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
+</p
