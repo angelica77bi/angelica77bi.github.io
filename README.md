@@ -41,6 +41,4 @@ I’m interested in building products that exist beyond the internet —
 tools that connect digital convenience with real-world experiences.
 
 Mobility, travel, and freedom of movement are just the beginning.
-<p align="center">
-  <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
-</p
+
