@@ -6,10 +6,6 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1502680390469-be75c86b636f" width="90%" />
 </p>
-
-<p align="center">
-  <sub><i>Ocean, movement, and freedom.</i></sub>
-</p>
 <p align="center">
   <sub>
   I’m interested in building products that exist beyond the internet —  
