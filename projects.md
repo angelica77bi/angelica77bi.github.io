@@ -2,7 +2,7 @@
 
 ---
 
-## 🚗 Ayook
+## 🚗 Ayook · <a href="https://ayook.id"><b>Live Site</b></a>
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1558981403-c5f9899a28bc" width="100%" />
@@ -43,11 +43,6 @@ Ayook simplifies mobility:
 - Simplifying the booking experience  
 - Understanding how digital products connect with real-world services  
 
----
-
-<p align="center">
-  <a href="https://ayook.id"><b>🚗 Visit Ayook</b></a>
-</p>
 
 ---
 
