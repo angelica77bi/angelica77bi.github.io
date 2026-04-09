@@ -1,9 +1,6 @@
 # 🚀 Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🚗 Ayook
 
@@ -52,53 +49,10 @@ Ayook simplifies mobility:
   <a href="https://ayook.id"><b>🚗 Visit Ayook</b></a>
 </p>
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 🧪 Next Project
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" width="100%" />
+  <i>Something new is coming.</i>
 </p>
-
-<p align="center">
-  <b>Exploring what's next.</b>
-</p>
-
----
-
-### 💡 In Progress
-
-I’m currently exploring new ideas around:
-
-- Mobility & local services  
-- Lifestyle-driven products  
-- Real-world + digital integration  
-
----
-
-### 🌱 Direction
-
-The goal is to build something that connects:
-
-- Freedom of movement  
-- Simplicity of experience  
-- Real human needs  
-
----
-
-### ⏳ Status
-
-Something new is coming...
-
----
-
-<p align="center">
-  <i>Stay tuned.</i>
-</p>
-
-</td>
-
-</tr>
-</table>
