@@ -1,47 +1,11 @@
-# 👋 Hi, I'm Angelica
-
-I build internet products and explore real-world business opportunities.
-
-Currently focused on mobility and local services in Bali 🌴
-
----
-
-## 🚀 Projects
-
-### 🚗 Ayook  
-A Bali-based car rental platform connecting travelers with local providers.
-
-- Focus: Local mobility in Bali  
-- Model: Aggregating small rental businesses  
-- Status: Live & operating  
-
-👉 https://ayook.id  
-
----
-
-## 🌱 What I'm Doing
-
-- Building and exploring startup ideas  
-- Learning how to work with developers  
-- Understanding real markets, not just theory  
-- Sharing the journey publicly  
-
----
-
-## ✍️ Writing
-
-I document what I learn while building:
-
-- Why I started working on Ayook  
-- Insights about Bali’s rental market  
-- Lessons from working with technical teams  
-
-(More coming soon...)
-
----
-
-## 🤝 Let's Connect
-
-Open to interesting conversations, collaborations, and ideas.
-
----
+<h1 align="center">Hi, I'm Angelica 👋</h1>
+<p align="center">
+  <b>Building internet products in the real world</b><br/>
+  Exploring mobility & local services in Bali 🌴
+</p>
+<p align="center">
+  <a href="https://ayook.id"><b>🚗 Visit Ayook</b></a> •
+  <a href="#-projects"><b>Projects</b></a> •
+  <a href="#-writing"><b>Writing</b></a> •
+  <a href="#-connect"><b>Connect</b></a>
+</p>
