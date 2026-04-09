@@ -4,6 +4,10 @@
   Exploring mobility, freedom & ocean life 🌊
 </p>
 <p align="center">
+  <a href="projects.md"><b>🚀 Projects</b></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
+</p>
+<p align="center">
   <img src="https://images.unsplash.com/photo-1502680390469-be75c86b636f" width="90%" />
 </p>
 <p align="center">
