@@ -13,7 +13,7 @@
   </i>
 </p>
 <p align="center">
-  <a href="#-projects"><b>🚀 Projects</b></a> •
+  <a href="projects.md"><b>🚀 Projects</b></a>
   <a href="mailto:angelica77.bi@gmail.com"><b>✉️ Say Hello</b></a>
 </p>
 <table>
