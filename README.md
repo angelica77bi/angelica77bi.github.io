@@ -9,7 +9,9 @@
 </p>
 <p align="center">
   <p align="center">
-  <img src="https://images.unsplash.com/photo-1527056159270-9d4c6c1c7e5c" width="100%" />
+  <p align="center">
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80" width="100%" />
+</p>
 </p>
 </p>
 <p align="center">
